@@ -1,0 +1,4 @@
+# Studentski-i-profesorski-servisi-
+
+Verzija bez mnogo css doterivanja. Bitna je funkcija i princip rada profesorskog i studentskog servisa u PHP-u. Postoji mogucnost prijave ispita i prikaza ispita za studente i mogucnost dodavanja izmene i brisanja ispita za profesore kao i pregledanje log fajla i fajla za prijavu ispita. Pored toga profesor moze videti i koliko se studenata prijavilo za njegove ispite.
+Version without much css refinement. The function and principle of the work of the professor and student services in PHP is essential. There is a possibility to register for the exam and to view the exam for students and to add changes and delete the exam for professors, as well as view the log file and file for exam registration. In addition, the professor can see how many students have applied for his exams.
